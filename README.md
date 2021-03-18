@@ -1,3 +1,2 @@
-# Class-2-programming-on-Python
+Programming on Python 2
 VARIABLES
-I will teach you how to create one and how to use it
